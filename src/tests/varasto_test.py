@@ -103,7 +103,7 @@ class TestVarasto(unittest.TestCase):
 
   
 
-        self.assertAlmostEqual(self.varasto.paljonko_mahtuu(), 10) 
+        self.assertAlmostEqual(self.varasto.paljonko_mahtuu(), 0) 
 
   
 
