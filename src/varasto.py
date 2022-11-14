@@ -8,7 +8,7 @@ class Varasto:
             # mahtuu
             self.saldo = alku_saldo
         else:
-            # täyteen ja ylimäärä hukkaan! täyteen ja ylimäärä hukkaan! täyteen ja ylimäärä hukkaan! täyteen ja ylimäärä hukkaan! täyteen ja ylimäärä hukkaan! täyteen ja ylimäärä hukkaan! täyteen ja ylimäärä hukkaan!
+            # täyteen ja ylimäärä hukkaan! 
             self.saldo = tilavuus
 
     def paljonko_mahtuu(self):
